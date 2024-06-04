@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MoamerPortfolio/static/css/main.95e0bc64.css",
+    "main.js": "/MoamerPortfolio/static/js/main.6441e3f0.js",
+    "static/media/site.jpg": "/MoamerPortfolio/static/media/site.465d27ffe620d62ba553.jpg",
+    "static/media/img1.jpeg": "/MoamerPortfolio/static/media/img1.c04c6189f7849f65b4ae.jpeg",
+    "static/media/Ahmed Moamer .pdf": "/MoamerPortfolio/static/media/Ahmed Moamer .896725e003d486bd2869.pdf",
+    "static/media/img2.jpeg": "/MoamerPortfolio/static/media/img2.d0516843d50b43a8905d.jpeg",
+    "index.html": "/MoamerPortfolio/index.html",
+    "main.95e0bc64.css.map": "/MoamerPortfolio/static/css/main.95e0bc64.css.map",
+    "main.6441e3f0.js.map": "/MoamerPortfolio/static/js/main.6441e3f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95e0bc64.css",
+    "static/js/main.6441e3f0.js"
+  ]
+}
